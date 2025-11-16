@@ -1,0 +1,4 @@
+customtkinter
+openai-whisper
+tkinterdnd2
+pyinstaller
